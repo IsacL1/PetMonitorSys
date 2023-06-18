@@ -1,5 +1,5 @@
 # PetMonitorSys
-Pet monitor System<br>
+Pet Monitor System<br>
 Temperature and humidity monitoring
 
 Components:<br>
