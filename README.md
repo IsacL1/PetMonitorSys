@@ -3,7 +3,7 @@ Pet Monitor System<br>
 Temperature and humidity monitoring
 
 Components:<br>
-ESP32-WROOM-32<br>
+ESP32-WROOM-32
 1 Adafruit SSD1306<br>
 
 Each set:<br>
