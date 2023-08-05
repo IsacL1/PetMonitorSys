@@ -1,12 +1,13 @@
-# PetMonitorSys
+# ReptileMonitorSys
 Pet Monitor System<br>
-Temperature and humidity monitoring
+Temperature and humidity monitoring and control
 
-Components:<br>
+## Monitoring Part:
+### Components:<br>
 ESP32-WROOM-32<br>
 1 Adafruit SSD1306<br>
 
-Each tempareture & humidity set:<br>
+### Each tempareture & humidity set:<br>
 1 ESP32-WROOM-32<br>
 1 DHT11 sensors<br>
 2 relay<br>
