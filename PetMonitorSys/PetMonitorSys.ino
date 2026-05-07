@@ -8,10 +8,10 @@ Pet temperature and humidity monitor Sys
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-// for DHT11, 
-//      VCC: 5V or 3V
-//      GND: GND
-//      DATA: 13
+// for DHT11, DHT22/AM2302
+//      VCC: 5V or 3V//pin1
+//      GND: GND // pin3 for DHT11, pin4 for DHT22
+//      DATA: 13 // pin2
 
 int pinDHT11_1 = 15; // GPIO15
 int pinDHT11_2 = 16; // GPIO2
