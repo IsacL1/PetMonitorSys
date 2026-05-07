@@ -5,10 +5,14 @@ Temperature and humidity monitoring and control
 ## Monitoring Part
 
 ### Components
-<p>Controller: </p><br>
+<p>Controller: </p>
 <blockquote><p>ESP32-WROOM-32</p>
-<p>Display: </p><br>
-<blockquote><p> Adafruit SSD1306</p>
+</blockquote><br>
+
+<p>Display: </p>
+<blockquote>
+<p> Adafruit SSD1306</p>
+</blockquote>
 
 ### Each tempareture & humidity set:<br>
 <p>1 ESP32-WROOM-32</p>
